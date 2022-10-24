@@ -73,8 +73,8 @@ global.namebot = 'VICTOR-BOT-MD'
 global.nameown = 'http://ī.am/levi-xd×͜×​᭄'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
-global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
+global.namagithub = 'leviXD' // nama github lu
+global.linkgithub = 'https://github.com/mytobot' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
